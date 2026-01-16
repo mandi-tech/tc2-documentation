@@ -14,6 +14,7 @@ O projeto é composto pelos seguintes repositórios:
 - **tc2-mfe-main** → Microfrontend principal da aplicação
 - **tc2-mfe-auth** → Microfrontend de autenticação
 - **tc2-documentation** → Documentação central (este repositório)
+- **backend-tech-challenge-2** → API disponibilizada pela FIAP
 
 <br />
 
