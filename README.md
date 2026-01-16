@@ -31,6 +31,20 @@ Mais detalhes em:
 
 ---
 
+## 🎨 Design System
+
+Para garantir consistência visual e reutilização de componentes entre os microfrontends, o projeto utiliza um **Design System centralizado**, documentado e mantido no GitBook.
+
+Essa documentação contempla:
+- Identidade visual
+- Componentes reutilizáveis
+- Tokens de design
+- Boas práticas de uso entre MFEs
+
+🔗 Acesse o Design System no GitBook: https://mandi-tech.gitbook.io/design-system-tc2
+
+---
+
 ## 📂 Estrutura da Documentação
 
 ```
