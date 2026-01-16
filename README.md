@@ -10,11 +10,13 @@ Aqui estão descritos os conceitos de arquitetura, padrões adotados, guias de s
 
 O projeto é composto pelos seguintes repositórios:
 
-- **tc2-mfe-shell** → Aplicação container (Shell/Host)
-- **tc2-mfe-main** → Microfrontend principal da aplicação
-- **tc2-mfe-auth** → Microfrontend de autenticação
-- **tc2-documentation** → Documentação central (este repositório)
-- **backend-tech-challenge-2** → API disponibilizada pela FIAP
+| Nome | Tipo | Link | Descrição |
+| ---- | ---- | ---- | --------- |
+| tc2-mfe-shell | MFE | https://github.com/mandi-tech/tc2-mfe-shell | Aplicação container |
+| tc2-mfe-main | MFE | https://github.com/mandi-tech/tc2-mfe-main | Microfrontend principal da aplicação |
+| tc2-mfe-auth | MFE | https://github.com/mandi-tech/tc2-mfe-auth | Microfrontend de autenticação |
+| tc2-documentation | Documentação | https://github.com/mandi-tech/tc2-documentation | Documentação central (este repositório) |
+| backend-tech-challenge-2 | API | https://github.com/mandi-tech/backend-tech-challenge-2 | API disponibilizada pela FIAP |
 
 <br />
 
