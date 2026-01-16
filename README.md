@@ -4,7 +4,7 @@ Este repositório centraliza toda a **documentação técnica e funcional** do p
 
 Aqui estão descritos os conceitos de arquitetura, padrões adotados, guias de setup, convenções de código e documentação específica de cada microfrontend.
 
----
+<br />
 
 ## 📦 Repositórios do Projeto
 
@@ -15,7 +15,7 @@ O projeto é composto pelos seguintes repositórios:
 - **tc2-mfe-auth** → Microfrontend de autenticação
 - **tc2-documentation** → Documentação central (este repositório)
 
----
+<br />
 
 ## 🧱 Arquitetura
 
@@ -29,7 +29,7 @@ A aplicação segue o padrão **Microfrontends com Module Federation**, onde:
 Mais detalhes em:
 📄 `docs/architecture/overview.md`
 
----
+<br />
 
 ## 🎨 Design System
 
@@ -43,7 +43,7 @@ Essa documentação contempla:
 
 🔗 Acesse o Design System no GitBook: https://mandi-tech.gitbook.io/design-system-tc2
 
----
+<br />
 
 ## 📂 Estrutura da Documentação
 
@@ -57,7 +57,7 @@ docs/
 └── troubleshooting/ # Problemas comuns
 ```
 
----
+<br />
 
 ## 🚀 Como começar
 
@@ -67,14 +67,14 @@ Se você está entrando agora no projeto, siga esta ordem:
 2. 📄 `docs/setup/environment-setup.md`
 3. 📄 `docs/microfrontends/shell.md`
 
----
+<br />
 
 ## 🤝 Contribuição
 
 Este repositório é mantido como **fonte única da verdade** do projeto.  
 Atualizações na arquitetura, padrões ou fluxos devem ser refletidas aqui.
 
----
+<br />
 
 ## 📄 Licença
 
