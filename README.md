@@ -21,6 +21,9 @@ O projeto é composto pelos seguintes repositórios:
 | tc2-documentation | Documentação | https://github.com/mandi-tech/tc2-documentation | Documentação central (este repositório) |
 | backend-tech-challenge-2 | API | https://github.com/mandi-tech/backend-tech-challenge-2 | API disponibilizada pela FIAP |
 
+> [!TIP]
+> Sabia que nosso projeto já está disponível online? Ao invés de executá-lo em sua máquina, você pode [clicar aqui para ir ao site](https://kind-island-08e8ca90f.6.azurestaticapps.net)!
+
 <br />
 
 ## 🧱 Arquitetura
