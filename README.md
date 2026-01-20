@@ -4,6 +4,9 @@ Este repositório centraliza toda a **documentação técnica e funcional** do p
 
 Aqui estão descritos os conceitos de arquitetura, padrões adotados, guias de setup, convenções de código e documentação específica de cada microfrontend.
 
+> [!TIP]
+> Uma maneira ainda melhor de conhecer nosso projeto é assistindo ao vídeo de demonstração! [Clique aqui para acessar o vídeo](https://youtu.be/U8touTdyfbo).
+
 <br />
 
 ## 📦 Repositórios do Projeto
